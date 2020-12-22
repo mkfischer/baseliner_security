@@ -1,0 +1,10 @@
+---
+username: adminuser
+fullname: Admin User
+uid: 1010
+shell: /bin/bash
+groups:
+  - ops
+  - sudo
+ssh_keys:
+  - id_adminuser.pub
