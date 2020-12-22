@@ -10,3 +10,5 @@ Verify with
 ```
 git tag -v 0.1.1
 ```
+gpg --list-keys
+gpg --armor --export ID > my-pubkey.asc
